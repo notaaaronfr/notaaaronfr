@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.charlesaarondavide.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Head+of+AI+%C2%B7+building+agents+that+ship;7%2B+years+turning+ideas+into+production+software;LLM+agents+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agent+Skills;Backend%2C+cloud+%26+full-stack+at+scale;Quality+you+can+prove%2C+not+promise" alt="Typing intro" />
+  <a href="https://www.charlesaarondavid.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Head+of+AI+%C2%B7+building+agents+that+ship;7%2B+years+building+software+%C2%B7+4%2B+in+industry;LLM+agents+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agent+Skills;Backend%2C+cloud+%26+full-stack+at+scale;Quality+you+can+prove%2C+not+promise" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.charlesaarondavide.com/"><img src="https://img.shields.io/badge/Website-charlesaarondavide.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/charlesaarondavide"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.charlesaarondavid.com/"><img src="https://img.shields.io/badge/Website-charlesaarondavid.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/charlesaarondavid"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Based_in-Dubai-334155?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Dubai" />
   <img src="https://komarev.com/ghpvc/?username=notaaaronfr&color=0ea5e9&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </p>
@@ -20,9 +20,9 @@
 
 ## 👋 About me
 
-I'm **Charles Aaron David**, Head of AI with **7+ years** of building software, from backend
-systems and cloud infrastructure to full-stack products and, today, AI agents that run in
-production.
+I'm **Charles Aaron David**, Head of AI. I've been building software for **7+ years**,
+**4+ of them professionally**, from backend systems and cloud infrastructure to full-stack
+products and, today, AI agents that run in production.
 
 - 🧠 I lead AI work end to end: strategy, architecture, and shipping.
 - 🤖 Right now I'm focused on **LLM agents that are reliable, measurable and safe**.
@@ -124,8 +124,8 @@ users     > technology     the stack serves the outcome, not the other way round
 
 <p align="center">
   <b>Let's build something reliable together.</b><br/>
-  <a href="https://www.linkedin.com/in/charlesaarondavide">LinkedIn</a> ·
-  <a href="https://www.charlesaarondavide.com/">Website</a>
+  <a href="https://www.linkedin.com/in/charlesaarondavid">LinkedIn</a> ·
+  <a href="https://www.charlesaarondavid.com/">Website</a>
 </p>
 
 <!-- Footer -->
